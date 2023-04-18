@@ -53,7 +53,7 @@ Primary use:
 .wrap-input100 {
   position: relative;
   max-width: calc(100% - 10px);
-  width: 500px;
+  width: 510px;
   z-index: 1;
 }
 
@@ -63,7 +63,7 @@ Primary use:
   background: #fff;
   height: 70px;
   border-radius: 35px;
-  padding: 0 40px;
+  padding: 0 30px;
 }
 
 .focus-input100 {
